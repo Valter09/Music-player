@@ -4,8 +4,8 @@ export default [
     name: "Candy Shop - Good Girl",
   },
   {
-    src: "./src/Girl Before A Mirror - Verified Picasso.mp3",
-    name: "Girl Before A Mirror - Verified Picasso",
+    src: "src/GOT THE THRILLS.mp3",
+    name: "Twice - Got The Thrills",
   },
   {
     src: "./src/Like That - Anno Domini Beats.mp3",
