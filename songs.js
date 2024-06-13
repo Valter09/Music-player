@@ -1,7 +1,7 @@
 export default [
   {
-    src: "./src/Dude - Patrick Patrikios.mp3",
-    name: "Dude - Patrick Patrikios",
+    src: "./src/Candy Shop (캔디샵) - Good Girl [Audio].mp3",
+    name: "Candy Shop - Good Girl",
   },
   {
     src: "./src/Girl Before A Mirror - Verified Picasso.mp3",
